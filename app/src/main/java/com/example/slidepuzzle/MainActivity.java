@@ -109,8 +109,6 @@ public class MainActivity extends Activity {
             emptyLocationIndex = 1;
             return -1;
         }
-
-        //why do not you work >:(
         private void switchTwoTiles()
         {
             if(buttons[buttonClickedIndex].getText() == ""){
